@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Calculator_GUI_Tkinter_Python", "Calculator_GUI_Tkinter_Python.pyproj", "{816E00C6-77EB-4122-93A8-5B848017CC5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{816E00C6-77EB-4122-93A8-5B848017CC5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{816E00C6-77EB-4122-93A8-5B848017CC5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B41D1EEC-BBB0-4A36-A869-606C9A417E3D}
+	EndGlobalSection
+EndGlobal
